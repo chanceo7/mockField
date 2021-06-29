@@ -1,9 +1,5 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
     
     {"id":23, "FullName":"jim","class":"Math"},
     {"id":24, "FullName":"Tom","class":"Science"},
